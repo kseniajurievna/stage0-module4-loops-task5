@@ -1,7 +1,7 @@
 package school.mjc.stage0.loops.task5;
 
 public class Cross {
-    public static void printCross(int sideLength) {
+    public void printCross(int sideLength) {
         int interval = 5;
         for (int i = 0; i <=sideLength; i++){
             for (int j = 0; j<=sideLength; j++){

@@ -26,18 +26,5 @@ public class Hourglass {
             }
             System.out.println();
         }
-//        for (int i = 0; i<=height; i++){
-//            for (int j = 0; j <=height; j++){
-//                if(i == 0 || i == height){
-//                    System.out.print("o");
-//                } else if (i > 0 && i <height/2){
-//                    for(int n = 1; n<=height/2; n++){
-//                        System.out.print("y");
-//                    }
-//                }
-//            }
-//            System.out.println();
-//        }
-
     }
 }
