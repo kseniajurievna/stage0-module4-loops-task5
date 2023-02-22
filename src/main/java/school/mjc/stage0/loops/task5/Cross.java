@@ -6,9 +6,9 @@ public class Cross {
         for (int i = 0; i <=sideLength; i++){
             for (int j = 0; j<=sideLength; j++){
                 if(j == interval){
-                    System.out.print("|");
+                    System.out.print("8");
                 } else if(i == interval){
-                    System.out.print("-");
+                    System.out.print("8");
                 } else {
                     System.out.print(" ");
                 }
